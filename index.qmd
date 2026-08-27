@@ -1,0 +1,18 @@
+---
+title: "My First Quarto Site"
+author: "Fisher Finck"
+format: html
+---
+
+## 
+
+## Welcome
+
+The page was written in **Quarto** and published straight to GitHub.
+
+- It renders to a real web page.
+- The source is plain text, so Git tracks every change cleanly.
+
+```{python}
+print("hello from a rendered code chunk")
+```
