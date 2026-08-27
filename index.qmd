@@ -4,8 +4,6 @@ author: "Fisher Finck"
 format: html
 ---
 
-## 
-
 ## Welcome
 
 The page was written in **Quarto** and published straight to GitHub.
